@@ -8,11 +8,11 @@ void main()
  int a = 20;
  if(a%2 == 0)
  {
- printf("Odd");
+ printf("Odd"); // Prints Odd
  }
  else
  {
- printf("Even")
+ printf("Even") // Prints Even
  }
  
 }
